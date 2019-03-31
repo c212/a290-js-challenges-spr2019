@@ -1,1 +1,2 @@
-$("#fourth").addClass("standout");
+
+$("h1").removeClass("exaggerate");
