@@ -1,2 +1,1 @@
-
-$("h1").removeClass("exaggerate");
+$("a span").addClass("subtle");
