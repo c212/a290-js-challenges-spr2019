@@ -1,1 +1,1 @@
-$("a span").addClass("subtle");
+$("p:first").removeClass("subtle");
